@@ -1,5 +1,5 @@
 ---
-title: Tuart Hill rules
+title: House Rules
 ---
 
 # Welcome

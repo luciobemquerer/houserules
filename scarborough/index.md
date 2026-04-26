@@ -1,5 +1,5 @@
 ---
-title: Scarborough rules
+title: House Rules
 ---
 
 # Welcome
